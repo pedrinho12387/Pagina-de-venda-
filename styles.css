@@ -49,7 +49,7 @@ body {
 
 .product-card img {
     width: 100%;
-    border-radius: 5px;
+    border-radius: 10px;
     height: 150px;
     object-fit: cover;
 }

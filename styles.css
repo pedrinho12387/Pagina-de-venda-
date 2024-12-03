@@ -48,7 +48,7 @@ body {
 }
 
 .product-card img {
-    width: 50%;
+    width: 85%;
     border-radius: 5px;
     height: 50px;
     object-fit: cover;

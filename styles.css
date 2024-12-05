@@ -40,7 +40,7 @@ body {
 }
 
 .product-card {
-    background: #1a1a3c;
+    background: black;
     border-radius: 20px;
     text-align: center;
     padding: 20px;
@@ -77,7 +77,7 @@ body {
 }
 
 .product-card button:hover {
-    background: #0b8bb3;
+    background: white;
 }
 
 .footer {

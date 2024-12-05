@@ -3,7 +3,7 @@ function searchProducts() {
     const productCards = document.querySelectorAll(".product-card");
 
     productCards.forEach(card => {
-        const productName = card.getAttribute("data-name").toLowerCase();
+        const productName = card.getAttribute("Tênis Adidas Breaknet - Branco").toLowerCase();
         if (productName.includes(searchQuery)) {
             card.style.display = "block";
         } else {

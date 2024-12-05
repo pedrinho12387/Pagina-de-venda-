@@ -28,8 +28,8 @@ body {
     border-radius: 5px;
     outline: none;
     font-size: 16px;
-    background: #21d7e1;
-    color: #f2f2f9;
+    background: #f2f2f2;
+    color: #101020;
 }
 
 .product-container {
@@ -40,11 +40,11 @@ body {
 }
 
 .product-card {
-    background: #0d0d0d;
+    background: #1a1a3c;
     border-radius: 20px;
     text-align: center;
     padding: 20px;
-    box-shadow: 0 4px 8px rgba(12, 37, 233, 0.99);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
 
 .product-card img {
@@ -72,7 +72,7 @@ body {
     font-size: 16px;
     cursor: pointer;
     background: #0dcaf0;
-    color: rgb(242, 243, 245);
+    color: rgb(68, 82, 241);
     transition: background 0.3s;
 }
 

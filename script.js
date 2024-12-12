@@ -37,9 +37,3 @@ function atualizarResumoCarrinho() {
         `;
     }
 }
-
-function finalizarCompra() {
-    // Redireciona para o site de compras (você pode substituir pela URL do seu checkout)
-    const urlCheckout = "https://www.seusite.com/checkout";
-    window.location.href = urlCheckout;
-}
